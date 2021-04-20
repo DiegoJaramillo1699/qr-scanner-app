@@ -1,5 +1,5 @@
 # qr-scanner-app
-An app that allows you to read a QR code which can contain an url or an location, in case of being a location, it will show a map using Mapbox services, in case of being an url, it will open it in your browser.
+An app that allows you to read a QR code which can contain an url or a location, in case of being a location, it will show a map using Mapbox services, in case of being an url, it will open it in your browser.
 
 DON'T FORGET TO: run "npm install" in order to get the node_modules folder that allows you to try the app.
 
